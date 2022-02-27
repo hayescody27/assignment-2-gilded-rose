@@ -21,4 +21,6 @@ This allowed us to provide instant feedback for each other.
 [Mob programming Recording](https://youtu.be/EAufpuoWOz4)
 
 ### Code Coverage Results
-[Coverage Report](code-coverage.PNG)
+[Coverage Report](code-coverage.PNG)  
+[Passing Tests](test-results.PNG)  
+[List of Tests](Java/src/test/java/com/gildedrose/GildedRoseTest.java)
